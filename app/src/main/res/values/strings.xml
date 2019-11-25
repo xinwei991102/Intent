@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="message_hint">Enter your message</string>
+    <string name="message">Message: </string>
+    <string name="send">Send</string>
+    <string name="done">Done</string>
+    <string name="second">Second</string>
+    <string name="my_lucky_number_hint">Enter your lucky number</string>
+    <string name="reply_hint">Enter your reply</string>
+    <string name="reply">Reply: </string>
+    <string name="call_me">Call Me</string>
+</resources>
